@@ -13,16 +13,11 @@ Before starting, you will need to check the Docker is running on our machine or 
 - first create a directory for this project and next, change the directory to your project:
 
   ```bash
-      mkdir containerize_app_using_k8s
-      cd containerize_app_using_k8s
+      mkdir web_app_using_kubernetes
+      cd web_app_using_kubernetes
   ```
 
-- copy the code
-
-  ```bash
-       Copy the all file content in your file.
-
-  ```
+- <i><b> NOTE :- First of all you can copy the above file content with respected names or you can download those files</b></i>  
 
 - build docker image
   ```bash
@@ -81,3 +76,8 @@ we have written all the required yaml files. Let’s deploy this in the K8 clust
 localhost:80<br> or <br>
 0.0.0.0:80
 ![Alt text](image-1.png)
+
+
+- Conclusion:- A Kubernetes Deployment tells Kubernetes how to create or modify instances of the pods that hold a containerized application like above app.
+
+---------------------------THANK YOU---------------------------
