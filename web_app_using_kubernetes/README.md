@@ -32,7 +32,7 @@ Before starting, you will need to check the Docker is running on our machine or 
       docker run -d -p 80:80 index-web:latest
   ```
 - Now, you should be able to see the web page by searching for “localhost:80” in the web browser.  
-  ![Alt text](image.png)
+  ![Alt text](image-2.png)
 
 - To Inspect the containers running in the system
 
@@ -75,7 +75,7 @@ we have written all the required yaml files. Let’s deploy this in the K8 clust
 
 localhost:80<br> or <br>
 0.0.0.0:80
-![Alt text](image-1.png)
+![Alt text](image-2.png)
 
 
 - Conclusion:- A Kubernetes Deployment tells Kubernetes how to create or modify instances of the pods that hold a containerized application like above app.
