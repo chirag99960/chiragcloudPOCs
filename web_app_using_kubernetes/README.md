@@ -32,7 +32,7 @@ Before starting, you will need to check the Docker is running on our machine or 
       docker run -d -p 80:80 index-web:latest
   ```
 - Now, you should be able to see the web page by searching for “localhost:80” in the web browser.  
-  ![Alt text](image-2.png)
+  ![Alt text](image.png)
 
 - To Inspect the containers running in the system
 
