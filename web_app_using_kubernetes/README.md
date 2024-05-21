@@ -1,4 +1,4 @@
-# Containerize Simple Web Page Using Docker
+# Containerize Simple Web Page Using Kubernetes
 
 containerize a simple html page and deploy it on a Kubernetes Cluster on localhost.
 
